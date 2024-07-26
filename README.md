@@ -10,9 +10,13 @@ This repository contains a data science project aimed at analyzing student score
 - Create visualizations to effectively communicate findings and insights.
 
 ### Libraries Used
+
 **NumPy:** For numerical operations and data manipulation.
+
 **Pandas:** For data cleaning, transformation, and analysis.
+
 **Matplotlib:** For creating basic plots and visualizations.
+
 **Seaborn:** For advanced statistical visualizations and enhanced plots.
 
 
