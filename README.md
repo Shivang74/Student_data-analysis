@@ -1,4 +1,4 @@
-# Student_data-analysis
+# Student Data Analysis
 This repository contains a data science project aimed at analyzing student scores based on various influencing factors. Utilizing Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn, this project explores how different variables impact student performance and provides visual insights into the data.
 
 ## Project Details
@@ -19,4 +19,5 @@ This repository contains a data science project aimed at analyzing student score
 
 **Seaborn:** For advanced statistical visualizations and enhanced plots.
 
+**The dataset was sourced from Kaggle.**
 
